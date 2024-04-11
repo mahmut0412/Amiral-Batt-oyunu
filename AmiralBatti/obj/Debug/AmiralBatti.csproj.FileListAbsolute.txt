@@ -1,0 +1,10 @@
+C:\Users\mahmut elmuhammed\Desktop\C#\AmiralBatti\AmiralBatti\bin\Debug\AmiralBatti.exe.config
+C:\Users\mahmut elmuhammed\Desktop\C#\AmiralBatti\AmiralBatti\bin\Debug\AmiralBatti.exe
+C:\Users\mahmut elmuhammed\Desktop\C#\AmiralBatti\AmiralBatti\bin\Debug\AmiralBatti.pdb
+C:\Users\mahmut elmuhammed\Desktop\C#\AmiralBatti\AmiralBatti\obj\Debug\AmiralBatti.csproj.AssemblyReference.cache
+C:\Users\mahmut elmuhammed\Desktop\C#\AmiralBatti\AmiralBatti\obj\Debug\AmiralBatti.Form1.resources
+C:\Users\mahmut elmuhammed\Desktop\C#\AmiralBatti\AmiralBatti\obj\Debug\AmiralBatti.Properties.Resources.resources
+C:\Users\mahmut elmuhammed\Desktop\C#\AmiralBatti\AmiralBatti\obj\Debug\AmiralBatti.csproj.GenerateResource.cache
+C:\Users\mahmut elmuhammed\Desktop\C#\AmiralBatti\AmiralBatti\obj\Debug\AmiralBatti.csproj.CoreCompileInputs.cache
+C:\Users\mahmut elmuhammed\Desktop\C#\AmiralBatti\AmiralBatti\obj\Debug\AmiralBatti.exe
+C:\Users\mahmut elmuhammed\Desktop\C#\AmiralBatti\AmiralBatti\obj\Debug\AmiralBatti.pdb
